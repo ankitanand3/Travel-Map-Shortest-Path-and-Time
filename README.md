@@ -1,12 +1,7 @@
 # Travel-Map-Shortest-Path-and-Time
 
 
-A program that lets an actor who doesn’t know Python appear to be typing
-Python code in the terminal for cinematic purposes. A program that will allow the user to type garbage
-text (random letters) on the keyboard and have nice Python source code show up on the screen.
-One line of source code should appear for each key pressed. The code displayed should come
-from some pre-loaded sample code files, that are provided as examples in MCS
-260, or are in the public domain.
+A program that lets user to either go right or straight from traffic light depending on which side has less wait time. Locations are used as x and y. Calculates the travel time for the whole month. Runs the number of month input and provides average travel time for input number of months.
 
 
 ## Functions in code
