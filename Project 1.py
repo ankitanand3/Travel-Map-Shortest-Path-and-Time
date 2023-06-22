@@ -1,8 +1,3 @@
-# Ankit Anand
-# MCS 275
-# aanand35@uic.edu
-# Project 1
-
 import random
 
 
